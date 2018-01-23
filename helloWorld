@@ -9,3 +9,5 @@ Git is free software distributed under the GPL.
 origin master
 
 push after clone
+
+add new branch bob
